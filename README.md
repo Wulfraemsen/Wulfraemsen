@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wulfraemsen
 - 👀 I’m interested in, many things ^^
 - 🌱 I’m currently learning: GameDev
-- 💞️ I’m looking to collaborate on, any art and gamedev
+- 💞️ I’m looking to collaborate on: any art and gamedev
 - 📫 How to reach me, just write :)
 
 <!---
